@@ -22,8 +22,6 @@ Here’s the set up you do only in week 1:
 
     e. clone curriculum  - `git clone [git@nu.bootcampcontent.com](mailto:git@nu.bootcampcontent.com):NU-Coding-Bootcamp/NU-VIRT-FSF-PT-01-2023-U-LOLC.git`
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c1f35f15-6801-4f90-9b1d-384de9fa6278/Untitled.png)
-    
 
 ## CREATE YOUR WORKING GIT BRANCH (only once)
 
