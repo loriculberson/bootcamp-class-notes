@@ -20,7 +20,7 @@ Here’s the set up you do only in week 1:
 
     d. `mkdir homework`
 
-    e. clone curriculum  - `git clone [git@nu.bootcampcontent.com](mailto:git@nu.bootcampcontent.com):NU-Coding-Bootcamp/NU-VIRT-FSF-PT-01-2023-U-LOLC.git`
+    e. clone curriculum  - `git clone git@nu.bootcampcontent.com:NU-Coding-Bootcamp/NU-VIRT-FSF-PT-01-2023-U-LOLC.git`
     
 
 ## CREATE YOUR WORKING GIT BRANCH (only once)
