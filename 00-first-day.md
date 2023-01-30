@@ -38,21 +38,24 @@ Here’s the set up you do only in week 1:
 
     b. `git commit -m "week 1 exercises"` - What you put in the quotes explains what work you completed”
 
-## WEEKLY PULLING CURRICULUM
+## WEEKLY/BEFORE EACH CLASS PULLING CURRICULUM
 
 **Here’s the process:**
 
-1. cd `NU-VIRT-FSF-PT-01-2023-U-LOLC`
+1.  You are likely starting on your `class-content` branch. Add and commit your changes on this branch. Type `git add -A`, `git commit -m "what work was done"`Then cd `NU-VIRT-FSF-PT-01-2023-U-LOLC`
 2. checkout to branch `main`
 
     a. `git checkout main`
 
     b. `git pull`- you will get all the current curriculum and solutions. `main` will be updated.
 
-    c. `git checkout class-content` -  check out to your class branch
+3. checkout to branch `class-content`
 
-    d. `git merge main`- merge the content that is on `main` with your branch.
+    a.  `git checkout class-content` -  check out to your class branch
 
-    e. at the end of class while on your class-content branch, `git add -A` (add all the changes)
+    b. `git merge main`- merge the content that is on `main` with your `class-content` branch.
 
-    f. `git commit -m "week {num} exercises"` - What you put in the quotes explains what work you completed”
+    e. You'll see a a screen that looks like this. When you do, type `:wq`. If successful, you will be returned to your terminal. If not, you are using vim and you should press the `esc` button and start over or reach out for help.
+    ![merge](images/merge-wq.png)
+
+4. You should be all done and ready for class.
