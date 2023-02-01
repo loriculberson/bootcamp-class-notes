@@ -45,7 +45,9 @@ Here’s the set up you do only in week 1:
 1.  You are likely starting on your `class-content` branch. Check the status of branch by typing `git status`. This will show which files you modified. If you have a list of files that you've edited, add and commit your changes on this branch. 
 
     a.  `git add -A`
+
     b.  `git commit -m "message of what work was done"`
+    
 2. checkout to branch `main`
 
     a. `git checkout main`
