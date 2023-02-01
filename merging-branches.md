@@ -42,7 +42,7 @@ Here’s the set up you do only in week 1:
 
 **Here’s the process:**
 
-1.  You are likely starting on your `class-content` branch. Add and commit your changes on this branch. Type `git add -A`, `git commit -m "what work was done"`Then cd `NU-VIRT-FSF-PT-01-2023-U-LOLC`
+1.  You are likely starting on your `class-content` branch. Add and commit your changes on this branch. Type `git add -A`, `git commit -m "message of what work was done"`
 2. checkout to branch `main`
 
     a. `git checkout main`
