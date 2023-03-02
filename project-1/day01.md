@@ -5,13 +5,13 @@
 <img width="538" alt="image" src="https://user-images.githubusercontent.com/8315971/178980729-29b8b05d-eea3-44b6-9f35-f8283df4a962.png">
 ----
 
-A. Create a working agreement
+### A. Create a working agreement
 
   1. How will your group handle disagreements?
   2. When will you work?
   3. How will you ensure everyone feels like they are included?
 
-B. Brainstorm app ideas
+### B. Brainstorm app ideas
 
   1. Come up with a minimum of 3 ideas to present to your instructor and advisor. Don't make it too complex of a project.
   2. Look for and test APIs before you invest energy in using it.
@@ -29,7 +29,7 @@ C. Create GitHub work space (We will walk through this in class)
     - brief description and purpose of app
     - team member names
 
-D. Design app
+### D. Design app
 
   1. Think through how a user will use your app. Write it out. What screens will you need?
   2. Wireframe app and get approval.
@@ -38,8 +38,11 @@ D. Design app
     - [figma.com](http://figma.com/) 
     - [whimsical.com](http://whimsical.com/)
 
+### E. Resources
 
-Things to think about:
+  1. [API Resources] (https://coding-boot-camp.github.io/full-stack/apis/api-resources). Select the ones that require an API key. Make sure you ALL apply for an API key for each API you use. DO NOT SHARE API KEYS. Get your own! Otherwise you will hit the rate limit while developing.
+
+### Things to think about:
 Number of Git commit contributions
 - Ensure that team member's git commit contributions are balanced. We will be looking at  GitHub’s contributions section as a metric to each team  member’s productivity.
 <img width="717" alt="image" src="https://user-images.githubusercontent.com/8315971/178978214-18934496-cc03-43d8-b58a-b17e8a836099.png">
