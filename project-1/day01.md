@@ -17,7 +17,7 @@
   2. Look for and test APIs before you invest energy in using it.
   3. Present ideas to instructional team and get approval.
 
-C. Create GitHub work space (We will walk through this in class)
+### C. Create GitHub work space (We will walk through this in class)
 
   1. Create an organization
   2. Create repo in the org with a kanban board
