@@ -1,6 +1,6 @@
 ## Project Week: Day 1 checklist
 ### Due: Monday, March 6 end of class
-### Final project presentations are: Thursday, July 28
+### Final project presentations are: Tuesday, March 14
 
 <img width="538" alt="image" src="https://user-images.githubusercontent.com/8315971/178980729-29b8b05d-eea3-44b6-9f35-f8283df4a962.png">
 ----
@@ -21,11 +21,11 @@ C. Create GitHub work space (We will walk through this in class)
 
   1. Create an organization
   2. Create repo in the org with a kanban board
-  3. Add us as collaborators to the repo: Asha (ashagross), Lori (loriculberson) or Jen (jdoyle5254)
-  4. Create project board with labels (To do, in progress, done)
+  3. Add your advisor and me as collaborators to the repo: Pat (patrickcorcoran10), Lori (loriculberson), Jen (jdoyle5254) or Theo (Tward9)
+  4. Create project board with labels (To Do, In Progress, Done)
   5. Add group members as owners
   6. Lock down branch to require 1 reviewer for PR approval (branch protection)
-  7. In the Readme.md, add 
+  7. In the Readme.md, add: 
     - brief description and purpose of app
     - team member names
 
