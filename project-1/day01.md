@@ -20,8 +20,15 @@
 ### C. Create GitHub work space (We will walk through this in class)
 
   1. Create an organization
-  2. Create repo in the org with a kanban board
-  3. Add your advisor and me as collaborators to the repo: Pat (patrickcorcoran10), Lori (loriculberson), Jen (jdoyle5254) or Theo (Tward9)
+  2. Add your advisor and me as collaborators to the repo: Pat (patrickcorcoran10), Lori (loriculberson), Jen (jdoyle5254) or Theo (Tward9)
+  3. Create repo in the org
+    a. Add your teammates to the repo as collaborators
+  4. Create a Project board at the organization level
+      a. Click the Projects tab
+      b. Click **New Project** button
+      c. Select Board and add a Project name
+      
+  3. 
   4. Create project board with labels (To Do, In Progress, Done)
   5. Add group members as owners
   6. Lock down branch to require 1 reviewer for PR approval (branch protection)
