@@ -8,7 +8,7 @@ Each week we will push up lessons and solutions. We want you to keep all of the 
 
 ## DIRECTORY STRUCTURE SET UP
 
-Here’s the set up you do only in week 1:
+Here’s the set up you do in week 1:
 
 1. Create folder structure
 
@@ -20,12 +20,12 @@ Here’s the set up you do only in week 1:
 
     d. `mkdir homework`
 
-    e. clone curriculum  - `git clone git@nu.bootcampcontent.com:NU-Coding-Bootcamp/NU-VIRT-FSF-PT-01-2023-U-LOLC.git`
+    e. clone curriculum  - `git clone git@git.bootcampcontent.com:Northwestern-University/NU-VIRT-FSF-PT-07-2023-U-LOLC.git`
     
 
 ## CREATE YOUR WORKING GIT BRANCH (only once)
 
-1. cd `NU-VIRT-FSF-PT-01-2023-U-LOLC` you will be on a branch called `main`. If the branch you are on is not `main`, checkout to main, `git checkout main`. This means that `main` branch already exists. 
+1. cd `NU-VIRT-FSF-PT-07-2023-U-LOLC` you will be on a branch called `main`. If the branch you are on is not `main`, checkout to main, `git checkout main`. This means that `main` branch already exists. 
 
 2. `git pull` - this will fetch code that is in the GitLab cloud.
 
