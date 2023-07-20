@@ -30,6 +30,7 @@ Here’s the set up you do in week 1:
 2. `git pull` - this will fetch code that is in the GitLab cloud.
 
 3. Create a branch where you will keep all your classtime work - `git checkout -b <branch name>`. Notice the `-b`. This means you are creating a new branch.
+    
     a. Example: `git checkout -b class-content`
 
 4. At the end of class add your work to the class-content branch
