@@ -1,6 +1,4 @@
 ## Project Week: Day 1 checklist
-### Due: Monday, March 6 end of class
-### Final project presentations are: Tuesday, March 14
 
 <img width="538" alt="image" src="https://user-images.githubusercontent.com/8315971/178980729-29b8b05d-eea3-44b6-9f35-f8283df4a962.png">
 ----
@@ -9,30 +7,30 @@
 
   1. How will your group handle disagreements?
   2. When will you work?
-  3. How will you ensure everyone feels like they are included?
+  3. How will you ensure everyone feels included in the development process?
 
 ### B. Brainstorm app ideas
 
-  1. Come up with a minimum of 3 ideas to present to your instructor and advisor. Don't make it too complex of a project.
-  2. Look for and test APIs before you invest energy in using it.
+  1. Come up with a minimum of 3 ideas to present to your instructional team. Keep it simple.
+  2. Look for and test APIs. Make sure they do not require a credit card.
   3. Present ideas to instructional team and get approval.
 
 ### C. Create GitHub work space (We will walk through this in class)
 
   1. Create an organization
-  2. Add your advisor and me as collaborators to the repo: Pat (patrickcorcoran10), Lori (loriculberson), Jen (jdoyle5254) or Theo (Tward9)
+  2. Add instructional team as collaborators to the repo: Chris (), Lori (loriculberson), Jen (jdoyle5254)
   3. Create repo in the org
     a. Add your teammates to the repo as collaborators
   4. Create a Project board at the organization level
+
       a. Click the Projects tab
       b. Click **New Project** button
       c. Select Board and add a Project name
-      
-  3. 
-  4. Create project board with labels (To Do, In Progress, Done)
-  5. Add group members as owners
-  6. Lock down branch to require 1 reviewer for PR approval (branch protection)
-  7. In the Readme.md, add: 
+
+  5. Create project board with labels (To Do, In Progress, Done)
+  6. Add group members as owners
+  7. Lock down branch to require 1 reviewer for PR approval (branch protection)
+  8. In the Readme.md, add: 
     - brief description and purpose of app
     - team member names
 
@@ -58,5 +56,6 @@ Number of Git commit contributions
 - https://uw-coding-bootcamp-project-1.github.io/Celebrity-Quest/
 - https://nw-bootcamp-team1.github.io/Night-In/home-page/index
 - https://that-s-what-she-said.github.io/The-Scranton-Gamer/
-- https://nwbootcamp.github.io/ShakenorStirred_Cocktails/
 - https://only-bad-ideas.github.io/Watchology/
+- https://the-ghrk-group.github.io/VaCASHin/
+- https://project-01-amms.github.io/Hop_Around/
