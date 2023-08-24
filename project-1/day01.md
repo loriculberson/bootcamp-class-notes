@@ -20,11 +20,15 @@
   1. Create an organization
   2. Add instructional team as collaborators to the repo: Chris (), Lori (loriculberson), Jen (jdoyle5254)
   3. Create repo in the org
+    
     a. Add your teammates to the repo as collaborators
+
   4. Create a Project board at the organization level
 
       a. Click the Projects tab
+
       b. Click **New Project** button
+      
       c. Select Board and add a Project name
 
   5. Create project board with labels (To Do, In Progress, Done)
