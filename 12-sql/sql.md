@@ -1,9 +1,9 @@
-https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide
-NOTE: You will need to set a password for MySQL. Please make the password “Password1”. This is not a time to be creative.
+## SQL Installation:
+
+- https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide
+- **NOTE:** You will need to set a password for MySQL. Please make the password “Password1”. This is not a time to be creative.
 
 `mysql -u root -p`
-
-## SQL Installation:
 
 - https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide
 - NOTE: You will need to set a password for MySQL. Please make the password “Password1”. This is not a time to be creative.
