@@ -33,3 +33,8 @@ Next...
 Query
 
 `SELECT first_name, last_name, birth_date FROM employees WHERE MONTH(birth_date) = 3 Limit 25;`
+
+## Relational Databases
+
+- Relational Data Video - This is a GREAT video. Please watch it and any of Mark Keith's database videos.
+- https://youtube.com/playlist?list=PL4zi3IBmicblqrhr8MIfXV1ZDzEIRyyFo&si=qncUTtJ5zS_gF2Sl
