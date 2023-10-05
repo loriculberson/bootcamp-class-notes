@@ -38,3 +38,6 @@ Query
 
 - Relational Data Video - This is a GREAT video. Please watch it and any of Mark Keith's database videos.
 - https://youtube.com/playlist?list=PL4zi3IBmicblqrhr8MIfXV1ZDzEIRyyFo&si=qncUTtJ5zS_gF2Sl
+
+## Data modeling
+- https://sql.toad.cz/?
