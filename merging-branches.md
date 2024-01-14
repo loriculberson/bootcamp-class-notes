@@ -4,7 +4,7 @@ Each week we will push up lessons and solutions. We want you to keep all of the 
 
 ## SSH KEYS
 
-1. Add `ssh keys` to GitLab and GitHub. Please regenerate the ssh keys without a passphrase. 
+1. Add `ssh keys` to GitLab and GitHub. **Please regenerate the ssh keys without a passphrase.** 
 
 ## DIRECTORY STRUCTURE SET UP
 
