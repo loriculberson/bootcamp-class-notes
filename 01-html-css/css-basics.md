@@ -26,6 +26,11 @@ section {
 }
 ```
 
+### Semantic HTML
+
+Resource: https://www.semrush.com/blog/semantic-html5-guide/
+![Semantic HTML](https://static.semrush.com/blog/uploads/media/cc/85/cc85d452a743e27f68d426df35e4da7d/original.png)
+
 Resources: 
   - Inline and Block elements - https://www.w3schools.com/html/html_blocks.asp
 
